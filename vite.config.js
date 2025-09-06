@@ -16,3 +16,4 @@ export default defineConfig({
   base: '/Gemini-API-Demo/',
   plugins: [react()],
 })
+
