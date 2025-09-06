@@ -13,6 +13,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/Gemini-clone/",   // 👈 repo name daalo yahan
+  base: '/Gemini-API-Demo/',
   plugins: [react()],
 })
